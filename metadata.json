@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A gorgeous Weather Intelligence App with precise city geocoding, current weather conditions, 7-day temperature trends via recharts, and activity planning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
